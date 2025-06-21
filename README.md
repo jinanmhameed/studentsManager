@@ -29,8 +29,9 @@ This project demonstrates object-oriented design, file I/O, and user interaction
 
 ## 🚀 How to Compile and Run
 
-### 📦 Using g++ (Linux/Mac/MinGW):
+### 📦 Using g++ on Windows:
 ```bash
-g++ main.cpp Student.cpp StudentManager.cpp -o student-manager
-./student-manager
+g++ main.cpp Student.cpp StudentManager.cpp -o student-manager.exe
+.\student-manager.exe
+
 
